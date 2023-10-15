@@ -1,0 +1,29 @@
+# Database Management System (DBMS) Introduction
+
+## Overview
+
+A Database Management System (DBMS) is crucial software that handles the storage, organization, retrieval, and manipulation of data in databases. It plays a fundamental role in modern information systems, making efficient data management possible across various applications and industries.
+
+## Key Features of DBMS
+
+- **Data Organization:** DBMS structures data into tables, ensuring organized storage and retrieval.
+
+- **Data Integrity:** It enforces data integrity through constraints and validation rules.
+
+- **Query Language:** SQL (Structured Query Language) is used to communicate with the DBMS.
+
+- **Concurrency Control:** DBMS manages simultaneous data access to prevent conflicts.
+
+# SQL (Structured Query Language)
+
+SQL is a specialized language for managing and manipulating relational databases. It serves as the standard language for interacting with DBMS systems like MySQL and Oracle.
+
+## Basic SQL Commands
+
+### SELECT
+
+Retrieve data from one or more tables.
+
+Example:
+```sql
+SELECT first_name, last_name FROM employees;
