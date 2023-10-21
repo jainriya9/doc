@@ -4,9 +4,8 @@ What is a Database Management System (DBMS)?
 Why are DBMS important?
 Types of DBMS (Relational, NoSQL, NewSQL, etc.)
 Relational Databases
-Explanation of the concept of relational databases
-SQL (Structured Query Language)
 Oracle
+SQL (Structured Query Language)
 
 
 WHAT IS DBMS?
